@@ -5,3 +5,8 @@ Videogame based in the original Flight Control (https://play.google.com/store/ap
 in Java for a final project in an Object Oriented Programming Language subject (Algoritmos III), Univeristy of Buenos Aires.
 
 It was developed using Test Driven Development.
+
+By
+Mirko Alic
+Kimochi
+Mauricio Bazán
